@@ -1,10 +1,10 @@
-Hello, I am Denislav Ivanov
+<H2>Hello, I am Denislav Ivanov</H2>
 
-👀 I’m interested in all aspects of coding and it's practical applications.
+👀 _I’m interested in **all aspects of coding** and it's practical applications. I have some experience using HTML, CSS, and JS, but mostly for fun, now I want to change this and get to the depths of programing._ 🥷
 
-🦉 I’m currently learning Python Fundamentals, at SoftUni.
+🦉 _I’m currently learning **Python Fundamentals**, at **SoftUni**._
 
-📫 You can get in touch with me by email at: denislavplamenov@gmail.com
+📫 _You can get in touch with me by email at:_ **denislavplamenov@gmail.com**
 
 <!---
 Den-PI/Den-PI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
