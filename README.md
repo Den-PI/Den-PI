@@ -1,6 +1,6 @@
 <H2>Hello, I am Denislav Ivanov</H2>
 
-👀 _I’m interested in **all aspects of coding** and it's **practical applications**. I have some experience using **HTML**, **CSS**, and **JS**, but mostly for fun, now I want to change this and get to the depths of programing._ 🥷
+👀 _I’m interested in **all aspects of coding** and it's **practical applications**. I have some experience using **HTML**, **CSS**, and **JS**, but mostly for fun, now I want to change this and get to the depths of programing._ 
 
 🦉 _I’m currently learning **Python Fundamentals**, at **SoftUni**._
 
